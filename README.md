@@ -19,3 +19,6 @@ Here are some ideas to get you started:
    <a href="https://www.linkedin.com/in/esteban-lopezramirez/"><img alt="LinkedIn" src="https://img.shields.io/badge/-EstebanLopez-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dewithmiramon/"></a>
    <a href="mailto:eslopezra@unal.edu.co"><img alt="Gmail" src="https://img.shields.io/badge/-eslopezra@unal.edu.co-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eslopezra@unal.edu.co"></a>
 </p>
+
+
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=estebanlope&show_icons=true&hide_title=true&hide_border=true&theme=graywhite" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estebanlope&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graywhite" />
