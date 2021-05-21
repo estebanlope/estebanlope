@@ -23,5 +23,5 @@ Currently I'm following the 100 Days Of Code Challenge.
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=black)
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/estebanlope"><img height="200px" src="https://github-readme-stats.vercel.app/api?username=estebanlope&show_icons=true&hide_title=false&hide_border=true&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF&icon_color=FFFFFF" alt="Esteban's GitHub Stats"/><img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estebanlope&show_icons=true&layout=compact&langs_count=6&hide_title=false&hide_border=true&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF&icon_color=FFFFFF"/></a>
+<a href="https://github.com/estebanlope"><img height="170px" src="https://github-readme-stats.vercel.app/api?username=estebanlope&show_icons=true&hide_title=false&hide_border=true&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF&icon_color=FFFFFF" alt="Esteban's GitHub Stats"/><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estebanlope&show_icons=true&layout=compact&langs_count=6&hide_title=false&hide_border=true&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF&icon_color=FFFFFF"/></a>
 
