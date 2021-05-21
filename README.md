@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 <p align="left">
    <a href="https://www.linkedin.com/in/esteban-lopezramirez/"><img alt="LinkedIn" src="https://img.shields.io/badge/-EstebanLopez-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dewithmiramon/"></a>
-   <a href="mailto:eslopezra@unal.edu.co"><img alt="Gmail" src="https://img.shields.io/badge/-eslopezra@unal.edu.co-eb4336?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eslopezra@unal.edu.co"></a>
+   <a href="mailto:eslopezra@unal.edu.co"><img alt="Gmail" src="https://img.shields.io/badge/-eslopezra@unal.edu.co-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eslopezra@unal.edu.co"></a>
 </p>
