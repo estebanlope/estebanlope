@@ -1,4 +1,5 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Esteban Lopez-Ramirez!
+My name is Esteban Lopez Ramires, I'm a civil engineering student in the National University of Colombia. 
 
 ## 📫 How to reach me: ...
 <p align="left">
@@ -22,5 +23,5 @@ Here are some ideas to get you started: -->
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=black)
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/estebanlope"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=estebanlope&show_icons=true&hide_title=true&hide_border=true&bg_color=000000&text&title_color=FFFFFF&icon_color=FFFFFF"/><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estebanlope&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&bg_color=000000&text&title_color=FFFFFF&icon_color=FFFFFF"/></a>
+<a href="https://github.com/estebanlope"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=estebanlope&show_icons=true&hide_title=true&hide_border=true&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF&icon_color=FFFFFF"/><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estebanlope&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&bg_color=000000&text&title_color=FFFFFF&icon_color=FFFFFF"/></a>
 
