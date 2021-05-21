@@ -1,5 +1,5 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Esteban Lopez-Ramirez!
-My name is Esteban Lopez Ramires, I'm a civil engineering student in the <a href="https://unal.edu.co">National University of Colombia.</a> I'm from Manizales, a city in Colombia.
+My name is Esteban Lopez Ramires, I'm a civil engineering student in the <a href="https://unal.edu.co">National University of Colombia.</a> I'm from <a href="https://es.wikipedia.org/wiki/Manizales">Manizales</a>, a city in Colombia.
 Currently I'm following a 100 Days Of Code Challenge.
 
 ## 📫 How to reach me:
