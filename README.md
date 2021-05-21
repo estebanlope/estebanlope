@@ -12,7 +12,7 @@ Currently I'm following the 100 Days Of Code Challenge.
 <!-- Here are some ideas to get you started: -->
 
 <!-- - 🔭 I’m currently working on  -->
-- 🌱 I’m currently learning Web Development
+- &#x1f4d8; I’m currently learning Web Development 
 - 👯 I’m looking to collaborate on projects/competitions of coding
 - 💬 Ask me about sports, nature, and coding!!
 - 😄 Pronouns: He/Him
@@ -25,3 +25,6 @@ Currently I'm following the 100 Days Of Code Challenge.
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/estebanlope"><img height="170px" src="https://github-readme-stats.vercel.app/api?username=estebanlope&show_icons=true&hide_title=false&hide_border=true&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF&icon_color=FFFFFF" alt="Esteban's GitHub Stats"/><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estebanlope&show_icons=true&layout=compact&langs_count=6&hide_title=false&hide_border=true&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF&icon_color=FFFFFF"/></a>
 
+<!-- Resources -->
+<!-- https://github.com/MartinHeinz/MartinHeinz/blob/master/README.md -->
+<!-- Shields: https://shields.io/ -->
