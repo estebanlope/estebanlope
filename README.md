@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="left">
-   <a href="https://www.linkedin.com/in/esteban-lopezramirez/"><img alt="LinkedIn" src="https://img.shields.io/badge/-dewithmiramon-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dewithmiramon/"></a>
+   <a href="https://www.linkedin.com/in/esteban-lopezramirez/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Esteban-Lopez-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dewithmiramon/"></a>
 </p>
